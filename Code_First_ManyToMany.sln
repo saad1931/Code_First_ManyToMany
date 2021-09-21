@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Code_First_ManyToMany", "Code_First_ManyToMany\Code_First_ManyToMany.csproj", "{B1136152-24E8-4652-9197-391E08F5B9FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1136152-24E8-4652-9197-391E08F5B9FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1136152-24E8-4652-9197-391E08F5B9FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1136152-24E8-4652-9197-391E08F5B9FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1136152-24E8-4652-9197-391E08F5B9FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55B69C4C-16BE-457E-88F8-5504D4B10999}
+	EndGlobalSection
+EndGlobal
